@@ -7,6 +7,8 @@ $ npm install
 ```
 
 ## Running app
+
+### Running dev 
 ```bash
-$ npm run start
+$ npm run start:dev
 ```
