@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EdgarMijares/contact-list/issues"
   },
-  "homepage": "https://github.com/EdgarMijares/contact-list#readme"
+  "homepage": "https://github.com/EdgarMijares/contact-list#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
